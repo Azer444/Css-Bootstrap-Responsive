@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#navbar .head .top {
+    margin-top: 25px;
+    margin-right: 10px;
+}
+
+#navbar .head a img {
+    width: 3cm;
+    height: 2cm;
+}
+
+#navbar .head .home {
+    font-size: 20px;
+    border: 0px;
+    color: darkslategrey;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#navbar .head .pages {
+    font-size: 20px;
+    border: 0px;
+    color: darkslategrey;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#navbar .head .medical {
+    font-size: 20px;
+    border: 0px;
+    color: darkslategrey;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#navbar .head .buytheme {
+    position: absolute;
+    display: flex;
+    font-size: 20px;
+    border: 0px;
+    color: green;
+    background-color: white;
+    border-radius: 10px;
+}
+#navbar .head .box .heart{
+    position: absolute;
+    display: flex;
+    width: 45px;
+    height: 45px;
+  margin-top: 200px;
+    color: black;
+}
+
+  .notification .badge {
+    position: absolute;
+    top: 67px;
+    right: 285px;
+    padding: 5px 10px;
+    border-radius: 50%;
+    background: black;
+    color: white;
+  }
+  #navbar .head .user{
+    width: 40px;
+    height: 40px;
+    margin-left: 325px;
+    margin-top: -65px;
+    color: black;
+  }
+  #navbar .head .basget{
+    color: black;
+    width: 35px;
+    height: 35px;
+    margin-left: 410px;
+    margin-top: -115px;
+  }
+  #navbar .head .heart{
+    margin-top: 15px;
+    color: black;
+    width: 35px;
+    height: 35px;
+    margin-left: 250px;
+    
+  }
+  .notification .badge1{
+    position: absolute;
+    top: 65px;
+    right: 120px;
+    padding: 0px 8px;
+    border-radius: 50%;
+    background: black;
+    color: white;
+}
